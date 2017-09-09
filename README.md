@@ -1,6 +1,10 @@
 Steve notes
 ============
 
+javascript
+-----------
+* [ECMAScript6入門](http://es6.ruanyifeng.com/)
+
 
 React
 -----
