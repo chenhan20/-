@@ -4,7 +4,7 @@ Steve notes
 javascript
 -----------
 * [ECMAScript6入門](http://es6.ruanyifeng.com/)
-
+* [leetCode有解答](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/questions/242md.html)
 
 React
 -----
