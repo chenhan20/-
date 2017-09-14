@@ -16,9 +16,9 @@ React
 其他
 -----
 * [好用的Markdown工具](https://stackedit.io/editor)
-* [很多實例可以看的阿六網站](https://www.kancloud.cn/digest/yvettelau/137641
+* [很多實例可以看的阿六網站](https://www.kancloud.cn/digest/yvettelau/137641)
 
 codepen參考範例
 ---------------
 * [影片div上用文字去蓋上去](https://codepen.io/icutpeople/pen/whueK)
-
+* [炫砲的滑動nav_topbar](https://codepen.io/davidicus/pen/pvObpV)
