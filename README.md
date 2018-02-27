@@ -30,6 +30,7 @@ bootsnipp參考範例
 * [好看的checkbox](https://bootsnipp.com/snippets/0lN4G)
 
 * [好看名片](https://bootsnipp.com/snippets/l1QW0)
+* [方塊](https://bootsnipp.com/snippets/D06nG)
 
 vuejs教學
 ----------
