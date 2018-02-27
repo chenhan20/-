@@ -29,7 +29,7 @@ bootsnipp參考範例
 * [單頁滑動](https://bootsnipp.com/snippets/featured/animated-vertical-bootstrap-carousel-on-mouse-scroll-and-swipe)
 * [好看的checkbox](https://bootsnipp.com/snippets/0lN4G)
 
-*[好看名片](https://bootsnipp.com/snippets/l1QW0)
+* [好看名片](https://bootsnipp.com/snippets/l1QW0)
 
 vuejs教學
 ----------
