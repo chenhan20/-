@@ -41,3 +41,5 @@ vuejs教學
 
 書籍資料
 ----------
+
+* [Docker —— 從入門到實踐](https://philipzheng.gitbooks.io/docker_practice/content/appendix_repo/nginx.html)
