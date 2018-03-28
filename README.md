@@ -24,6 +24,7 @@ codepen參考範例
 * [炫砲的滑動nav_topbar](https://codepen.io/davidicus/pen/pvObpV)
 * [可以關閉導覽列的例子](https://codepen.io/surjithctly/pen/pLDwe)
 * [超帥單頁範例](https://codepen.io/suez/pen/JoWKKX)
+* [可移動的好看CV](https://codepen.io/erictreacy/pen/EbWmbY)
 bootsnipp參考範例
 -----------------
 * [單頁滑動](https://bootsnipp.com/snippets/featured/animated-vertical-bootstrap-carousel-on-mouse-scroll-and-swipe)
@@ -35,3 +36,7 @@ bootsnipp參考範例
 vuejs教學
 ----------
 * [vuejs教學](https://nowills.blogspot.tw/search/label/Vue%20js?&max-results=8)
+
+
+書籍資料
+----------
