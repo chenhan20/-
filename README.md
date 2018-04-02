@@ -25,6 +25,7 @@ codepen參考範例
 * [可以關閉導覽列的例子](https://codepen.io/surjithctly/pen/pLDwe)
 * [超帥單頁範例](https://codepen.io/suez/pen/JoWKKX)
 * [可移動的好看CV](https://codepen.io/erictreacy/pen/EbWmbY)
+* [model範例](https://codepen.io/designcouch/pen/obvKxm)
 
 bootsnipp參考範例
 -----------------
