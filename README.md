@@ -39,6 +39,7 @@ vuejs教學
 ----------
 * [vuejs教學](https://nowills.blogspot.tw/search/label/Vue%20js?&max-results=8)
 * [vuejs OpenSource範例整理](https://www.cnblogs.com/opendigg/p/6513510.html)
+* [重新認識 Vue.js | Kuro Hsu](https://book.vue.tw/CH1/1-1.html)
 
 
 
