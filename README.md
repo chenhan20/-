@@ -42,6 +42,9 @@ vuejs教學
 * [重新認識 Vue.js | Kuro Hsu](https://book.vue.tw/CH1/1-1.html)
 
 
+基本觀念
+--------------
+* [安德魯部落格](https://columns.chicken-house.net/)
 
 書籍資料
 ----------
